@@ -9,10 +9,10 @@ Passionated about the relationships between 'art and science', I decided to atte
 
 | Project | Summary | links | Technology | Testing |
 | --- | --- | --- | --- | --- |
-| 1. Ido  | Final project at MakersAcademy implementing marriage contract onto the blockchain. | <p align="center"><a href="https://github.com/adoolaeghe/music-safari"><img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png"></p> | Javascript, Express | Mocha, Jasmine |
+| 1. Ido  | Final project at MakersAcademy implementing marriage contract onto the blockchain. | <p align="center"><a href="https://github.com/adoolaeghe/Love-Block"><img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png"></p> | Javascript, Express | Mocha, Jasmine |
 | 2. Music Safari  | Practice week project at MakersAcademy | <p align="center"><a href="https://github.com/adoolaeghe/music-safari"><img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png"></p> | Javascript, Express | Mocha, Jasmine |
-| 3. Makers B'n'B  | This is week 5 project cloning Airbnb website discovering NodeJs technology | <p align="center"><a href="https://github.com/ryandav/instagram-challenge"><img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png"></p> | Javascript, NodeJs, Express, HTML/CSS, MongoDB | Mocha, Zombie |
-| 4. Boris bikes in Ruby  | My first week project of coding at Makers academy. | <p align="center"><a href="https://github.com/ryandav/instagram-challenge"><img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png"></p> | Ruby | Rspec |
+| 3. Makers B'n'B  | This is week 5 project cloning Airbnb website discovering NodeJs technology | <p align="center"><a href="https://github.com/adoolaeghe/instagram-challenge"><img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png"></p> | Javascript, NodeJs, Express, HTML/CSS, MongoDB | Mocha, Zombie |
+| 4. Instagram challenge  | My first week project of coding at Makers academy. | <p align="center"><a href="https://github.com/ryandav/instagram-challenge"><img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png"></p> | Ruby | Rspec |
 
 
 ## Skills
@@ -21,17 +21,17 @@ Passionated about the relationships between 'art and science', I decided to atte
 
 My university studies were focused on independent learning experiences, I was pushed to find the resources for my own learning giving me the freedom and opportunity to study a large array of fields and subjects (ranging from ). The iniative learning at Makers Academy allowed me to build project with complexe technology such as Blockchain application...
 
+#### Communication
+
+My good communication with my team was critical to my role in a contemporary art gallery, I had focused on facilitating visitor engagement with the work displayed at the gallery. I was also in charge to publicly speak in front of audiences presenting the exhibiton to potential buyers. I can fluently speak in french and english :fr::gb:
+
 #### Critical thinking
 
-Working as an art curators, I have an eye and passion for staging artwork in a way that creates interest in an art exhibition. I’ve trained myself to identifying the relevant part of someone's idea or production, producing the holistic meaning of an exhibition. I enjoy thinking this way when programming allowing me to separate or broke into parts problems to discover their nature, functions and relationships.
+Working as an art curators, I have an eye and passion for staging artwork in a way that creates interest in an art exhibition. I’ve trained myself to identifying the relevant part of someone's idea or production to outline the holistic meaning of an exhibition. This approach has been especially helpfull when learning to code, allowing me to separate or broke problems into parts to discover their nature and solution.
 
 #### Team-Player
 
 I have worked in a variety of context sharpening my interpersonal skills. I like to work in between conflicts, allowing flexibility that can lead to new approaches for a solution. At Makers Academy, I intentionally decided to work in a group when given the opportunity,    
-
-#### Communication
-
-My good communication with my team was critical to my role in a contemporary art gallery, I had focused on facilitating visitor engagement with the work displayed at the gallery. I had to publicly speak regularly in front of relatively large audience. I can fluently speak in french and english :fr::gb:
 
 ## Education
 
@@ -82,7 +82,7 @@ Baccalauréat Scientifique  (High School diploma, scientific option, equivalent 
 
 ## Interests and Hobbies
 
-I have a passion for drawing, allowing me to escape my traditional habbit format. 
+I have a passion for drawing, sketches allowing me to sustain observation, attention to details, awareness of surroundings and also. 
 
 ## Contact
 
