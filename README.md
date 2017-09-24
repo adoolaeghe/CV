@@ -11,7 +11,7 @@ Passionated about the relationships between arts and technologies, I decided to 
 | --- | --- | --- | --- | --- |
 | 1. Ido  | Final project at MakersAcademy implementing marriage contract onto the blockchain. | <p align="center"><a href="https://github.com/adoolaeghe/Love-Block"><img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png"></p> | Solidity, truffle, web3.js, Node.js  | Mocha, Jasmine |
 | 2. Music Safari  | Practice week project at MakersAcademy | <p align="center"><a href="https://github.com/adoolaeghe/music-safari"><img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png"></p> | Javascript, Express | Mocha, Jasmine |
-| 3. Acebook  | Facebook copy using Ruby-on-Rails framework | <p align="center"><a href="https://github.com/ryandav/instagram-challenge"><img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png" width="48px" height="48px"> <a href="https://weather-thermostat-glow.herokuapp.com/"><img src="https://a.slack-edge.com/bfaba/img/api/hosting_heroku.png" width="48px" height="48px"></a> </p>  | Ruby on Rails | Rspec |
+| 3. Acebook  | Facebook copy using Ruby-on-Rails framework | <p align="center"><a href="https://github.com/ryandav/instagram-challenge"><img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png" width="48px" height="48px"> <a href="https://acebook17.herokuapp.com/"><img src="https://a.slack-edge.com/bfaba/img/api/hosting_heroku.png" width="48px" height="48px"></a> </p>  | Ruby on Rails | Rspec |
 | 4. Makers B'n'B  | This is week 5 project cloning Airbnb website discovering NodeJs technology | <p align="center"><a href="https://github.com/adoolaeghe/instagram-challenge"><img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png"></p> | Javascript, NodeJs, Express, HTML/CSS, MongoDB | Mocha, Zombie |
 
 
@@ -82,7 +82,7 @@ Baccalauréat Scientifique  (High School diploma, scientific option, equivalent 
 
 ## Interests and Hobbies
 
-I have a passion for drawing, sketches allowing me to sustain observation, attention to details, awareness of surroundings and also. 
+I have a passion for drawing and sketches allowing me to sustain preserve my awareness of surroundings and attention to details. 
 
 ## Contact
 
