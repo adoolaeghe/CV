@@ -72,7 +72,7 @@ Baccalauréat Scientifique  (High School diploma, scientific option, equivalent 
 
 * Co-curated exhibition: [Use, User, Used](https://www.zabludowiczcollection.com/exhibitions/view/use-user-used)
 
-* 
+* Co-organiser of [The Ideal Press](http://idealpress.org/#about)
 
 #### [Zabdulowicz Collection](https://www.zabludowiczcollection.com/)
 
@@ -84,9 +84,7 @@ Baccalauréat Scientifique  (High School diploma, scientific option, equivalent 
 
 ## Interests and Hobbies
 
-* Games Enthusiast 
-
-* Cryptocurrency currency enthusiast
+* Gallery 
 
 ## Contact
 
