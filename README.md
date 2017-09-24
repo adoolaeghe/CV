@@ -3,7 +3,7 @@
 
 I am currently looking for a Junior Developer role in London, where I can work in a innovative team of problem solvers with whom I can both contribute and learn from.
 
-Passionated about the relationships between 'art and science', I decided to attend the [Maker's Academy](http://employers.makersacademy.com/) course after graduating from a visual art degree. Now stepping into the development world, I enjoy the mix of analytical and creative associated to it. I value the opportunity to work and learn with people that have interests in creative tech.
+Passionated about the relationships between arts and technologies, I decided to attend the [Maker's Academy](http://employers.makersacademy.com/) course after graduating from a visual art degree. Now stepping into the development world, I enjoy the mix of analytical and creative associated to it. I value the opportunity to work and learn with people that have interests in creative tech.
 
 ## Projects
 
@@ -19,7 +19,7 @@ Passionated about the relationships between 'art and science', I decided to atte
 
 #### Self-driven learner
 
-My university studies were focused on independent learning experiences, I was pushed to find the resources for my own learning giving me the freedom and opportunity to study a large array of fields and subjects (ranging from ). The iniative learning at Makers Academy allowed me to build project with complexe technology such as Blockchain application...
+My university studies were focused on independent learning experiences, I was pushed to find the resources for my own learning, having the freedom and opportunity to study a large array of fields and subjects (ranging from ). The culture  learning at Makers Academy allowed me to build project with complexe technology such as Blockchain application...
 
 #### Communication
 
@@ -27,11 +27,11 @@ My good communication with my team was critical to my role in a contemporary art
 
 #### Critical thinking
 
-Working as an art curators, I have an eye and passion for staging artwork in a way that creates interest in an art exhibition. I’ve trained myself to identifying the relevant part of someone's idea or production to outline the holistic meaning of an exhibition. This approach has been especially helpfull when learning to code, allowing me to separate or broke problems into parts to discover their nature and solution.
+Working as an art curators, I have an eye and passion for staging artwork in a way that creates interest in an art exhibition. I’ve trained myself to identifying the relevant part of someone's idea or production to outline the holistic meaning of an exhibition. This approach has been especially helpfull when learning to code, allowing me to separate problems into parts that I understand helping to solve their nature and solution.
 
 #### Team-Player
 
-I have worked in a variety of context sharpening my interpersonal skills. I like to work in between conflicts, allowing flexibility that can lead to new approaches for a solution. At Makers Academy, I intentionally decided to work in a group when given the opportunity, adding a crucial dimension and motivation to my learning. 
+I have worked in a variety of context sharpening my interpersonal skills. I especially like to work in between conflicts, allowing flexibility that can lead to new approaches for a solution. At Makers Academy, I intentionally decided to work in groups when given the opportunity, adding a crucial dimension and motivation to my learning. 
 
 ## Education
 
@@ -52,7 +52,7 @@ I have worked in a variety of context sharpening my interpersonal skills. I like
  BA, Fine Art practice, 1st
  (2014-2017)
 
-* Honored for my dissertation on.
+* Honored for my dissertation on the cultural movement of post-internet art.
 
 
 #### The New School of design Paris
