@@ -1,7 +1,7 @@
 # Antoine Doolaeghe
 [PROJECTS](#projects) | [SKILLS](#skills)  | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [CONTACT](#contact)
 
-I am currently looking for a Junior Developer role in London, where I can work on projects with others who are passionate about creating code.
+I am currently looking for a Junior Developer role in London, where I can work in a innovative team of problem solvers with whom I can both contribute and learn from.
 
 Passionated about the relationships between 'art and science', I decided to attend the [Maker's Academy](http://employers.makersacademy.com/) course after graduating from a visual art degree. Now stepping into the development world, I enjoy the mix of analytical and creative associated to it. I value the opportunity to work and learn with people that have interests in creative tech.
 
@@ -23,7 +23,7 @@ My university studies were focused on independent learning experiences, I was pu
 
 #### Communication
 
-My good communication with my team was critical to my role in a contemporary art gallery, I had focused on facilitating visitor engagement with the work displayed at the gallery. I was also in charge to publicly speak in front of audiences presenting the exhibiton to potential buyers. I can fluently speak in french and english :fr::gb:
+My good communication with my team was critical to my role in a contemporary art gallery, I had to facilitate the visitor engagement with the work displayed at the gallery and regularly publicly speak to present the exhibiton in front of potential collectors. I can fluently speak in french and english :fr::gb:
 
 #### Critical thinking
 
@@ -31,7 +31,7 @@ Working as an art curators, I have an eye and passion for staging artwork in a w
 
 #### Team-Player
 
-I have worked in a variety of context sharpening my interpersonal skills. I like to work in between conflicts, allowing flexibility that can lead to new approaches for a solution. At Makers Academy, I intentionally decided to work in a group when given the opportunity,    
+I have worked in a variety of context sharpening my interpersonal skills. I like to work in between conflicts, allowing flexibility that can lead to new approaches for a solution. At Makers Academy, I intentionally decided to work in a group when given the opportunity, adding a crucial dimension and motivation to my learning. 
 
 ## Education
 
