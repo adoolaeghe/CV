@@ -57,10 +57,8 @@ My good communication with my team was critical to my role in a contemporary art
 
 #### The New School of design Paris
 
- BA, Fine Art practice, 1st
+ Foundation diploma. 
  (2013-2014)
-
-* Foundation diploma. 
 
 #### Lycée Pierre Termier (2011 – 2013)
 
@@ -72,7 +70,7 @@ Baccalauréat Scientifique  (High School diploma, scientific option, equivalent 
 
 * Co-curated exhibition: [Use, User, Used](https://www.zabludowiczcollection.com/exhibitions/view/use-user-used)
 
-* Co-organiser of [The Ideal Press](http://idealpress.org/#about)
+* Co-organiser of [The Ideal Press](http://idealpress.org)
 
 #### [Zabdulowicz Collection](https://www.zabludowiczcollection.com/)
 
@@ -84,7 +82,7 @@ Baccalauréat Scientifique  (High School diploma, scientific option, equivalent 
 
 ## Interests and Hobbies
 
-* Gallery 
+I have a passion for drawing, allowing me to escape my traditional habbit format. 
 
 ## Contact
 
