@@ -30,12 +30,13 @@ choose to study difficult subjects.
 
 #### Communication
 
-My good communication with my team was critical to my role in a contemporary art gallery, I had to facilitate the visitor engagement with the work displayed and regularly publicly speak to present the exhibiton in front of potential collectors. This communication were particularly beneficial during my final project when working on a team with 3 other developers. 
+My communication with my team was critical in my role in a contemporary art gallery, I had to facilitate the visitor engagement with the work displayed and regularly speak publicly to present the exhibiton in front of potential collectors. This strength was particularly beneficial during my final project when working on a team with 3 other developers. 
 I can also fluently speak in french and english :fr::gb:
+(agile practises)
 
 #### Team-Player
 
-I have worked in a variety of context sharpening my interpersonal skills. I am good at reaching a compromise, allowing flexibility that can lead to new approaches for finding a solution. At Makers Academy, I intentionally decided to work in groups when given the opportunity, adding a crucial dimension and motivation to my learning. 
+I have worked in a variety of contexts sharpening my interpersonal skills. I am good at reaching a compromise, allowing flexibility that can lead to new approaches for finding a solution. At Makers Academy, I intentionally decided to work in groups when given the opportunity, adding a crucial dimension and motivation to my learning. 
 
 ## Education
 
@@ -45,7 +46,7 @@ I have worked in a variety of context sharpening my interpersonal skills. I am g
 
 * High levels of independent learning and problem-solving Skills.
 
-* Solidity, Javascript, Node.js, Ruby, Rails.
+* Solidity, JavaS  cript, Node.js, Ruby, Rails.
 
 * Rspec, Jasmine, Mocha
 
