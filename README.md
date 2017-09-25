@@ -23,16 +23,12 @@ Working as an art curator, I have an eye and passion for staging artwork in a wa
 
 #### Self-driven learner
 
-My university studies were focused on independent learning experiences. I was pushed to find the resources for my own learning, having the freedom and opportunity to study a large array of fields and subjects (ranging from ). The culture  learning at Makers Academy allowed me to build project with complex technology such as Blockchain application...
-
-willing on to take a challenge.
-choose to study difficult subjects. 
+My university studies were focused on independent learning experiences. I was pushed to find the resources for my own learning, having the freedom and opportunity to study a large array of fields and subjects (ranging from ). With the learning culture at Makers Academy, I show my willingness to take on difficult challenge, deciding build project with complex technology such as Blockchain application.
 
 #### Communication
 
 My communication with my team was critical in my role in a contemporary art gallery, I had to facilitate the visitor engagement with the work displayed and regularly speak publicly to present the exhibiton in front of potential collectors. This strength was particularly beneficial during my final project when working on a team with 3 other developers. 
 I can also fluently speak in french and english :fr::gb:
-(agile practises)
 
 #### Team-Player
 
