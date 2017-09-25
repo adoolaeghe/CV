@@ -23,7 +23,7 @@ Working as an art curator, I have an eye and passion for staging artwork in a wa
 
 #### Self-driven learner
 
-My university studies were focused on independent learning experiences. I was pushed to find the resources for my own learning, having the freedom and opportunity to study a large array of fields and subjects (ranging from ). With the learning culture at Makers Academy, I show my willingness to take on difficult challenge, deciding build project with complex technology such as Blockchain application.
+My university studies were focused on independent learning experiences. I was pushed to find the resources for my own learning, having the freedom and opportunity to study a large array of fields and subjects (ranging from video animation to marble carving !). With the learning culture at Makers Academy, I show my willingness to take on difficult challenge, deciding build project with complex technology such as Blockchain application.
 
 #### Communication
 
