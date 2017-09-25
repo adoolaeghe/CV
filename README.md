@@ -1,9 +1,9 @@
 # Antoine Doolaeghe
 [PROJECTS](#projects) | [SKILLS](#skills)  | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [CONTACT](#contact)
 
-I am currently looking for a Junior Developer role in London, where I can work in a innovative team of problem solvers with whom I can both contribute and learn from.
+I am currently looking for a Junior Developer role in London, where I can work in a innovative team of problem solvers with whom I can both contribute and learn.
 
-Passionated about the relationships between arts and technologies, I decided to attend the [Maker's Academy](http://employers.makersacademy.com/) course after graduating from a visual art degree. Now stepping into the development world, I enjoy the mix of analytical and creative associated to it. I value the opportunity to work and learn with people that have interests in creative tech.
+Passionated about the relationship between the arts and technology, I decided to attend the [Maker's Academy](http://employers.makersacademy.com/) course after graduating from a visual art degree. Now stepping into the development world, I enjoy the mix of analysis and creativity associated with it. I would value the opportunity to work and learn with people that have an interest in creative tech.
 
 ## Projects
 
@@ -17,21 +17,25 @@ Passionated about the relationships between arts and technologies, I decided to 
 
 ## Skills
 
+#### Critical thinking
+
+Working as an art curator, I have an eye and passion for staging artwork in a way that creates interest in an art exhibition. I’ve trained myself to identifying the relevant part of someone's idea or production to outline the holistic meaning of an exhibition. This approach has been especially helpful when learning to code, allowing me to separate problems into parts that I understand helping to solve their nature and solution.
+
 #### Self-driven learner
 
-My university studies were focused on independent learning experiences, I was pushed to find the resources for my own learning, having the freedom and opportunity to study a large array of fields and subjects (ranging from ). The culture  learning at Makers Academy allowed me to build project with complexe technology such as Blockchain application...
+My university studies were focused on independent learning experiences. I was pushed to find the resources for my own learning, having the freedom and opportunity to study a large array of fields and subjects (ranging from ). The culture  learning at Makers Academy allowed me to build project with complex technology such as Blockchain application...
+
+willing on to take a challenge.
+choose to study difficult subjects. 
 
 #### Communication
 
-My good communication with my team was critical to my role in a contemporary art gallery, I had to facilitate the visitor engagement with the work displayed at the gallery and regularly publicly speak to present the exhibiton in front of potential collectors. I can fluently speak in french and english :fr::gb:
-
-#### Critical thinking
-
-Working as an art curators, I have an eye and passion for staging artwork in a way that creates interest in an art exhibition. I’ve trained myself to identifying the relevant part of someone's idea or production to outline the holistic meaning of an exhibition. This approach has been especially helpfull when learning to code, allowing me to separate problems into parts that I understand helping to solve their nature and solution.
+My good communication with my team was critical to my role in a contemporary art gallery, I had to facilitate the visitor engagement with the work displayed and regularly publicly speak to present the exhibiton in front of potential collectors. This communication were particularly beneficial during my final project when working on a team with 3 other developers. 
+I can also fluently speak in french and english :fr::gb:
 
 #### Team-Player
 
-I have worked in a variety of context sharpening my interpersonal skills. I especially like to work in between conflicts, allowing flexibility that can lead to new approaches for a solution. At Makers Academy, I intentionally decided to work in groups when given the opportunity, adding a crucial dimension and motivation to my learning. 
+I have worked in a variety of context sharpening my interpersonal skills. I am good at reaching a compromise, allowing flexibility that can lead to new approaches for finding a solution. At Makers Academy, I intentionally decided to work in groups when given the opportunity, adding a crucial dimension and motivation to my learning. 
 
 ## Education
 
@@ -39,11 +43,9 @@ I have worked in a variety of context sharpening my interpersonal skills. I espe
 
 * 16-week, full-time, immersive development bootcamp.
 
-* Curiosity and hungry passion for code.
-
 * High levels of independent learning and problem-solving Skills.
 
-* Javascript, Node.js, React, Ruby, Rails.
+* Solidity, Javascript, Node.js, Ruby, Rails.
 
 * Rspec, Jasmine, Mocha
 
@@ -82,7 +84,7 @@ Baccalauréat Scientifique  (High School diploma, scientific option, equivalent 
 
 ## Interests and Hobbies
 
-I have a passion for drawing and sketches allowing me to sustain preserve my awareness of surroundings and attention to details. 
+I have a passion for drawing and sketches allowing me to sustain an awareness of my surroundings and attention to detail. 
 
 ## Contact
 
