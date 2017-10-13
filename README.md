@@ -1,8 +1,6 @@
 # Antoine Doolaeghe
 [PROJECTS](#projects) | [SKILLS](#skills)  | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | [CONTACT](#contact)
 
-I am currently looking for a Junior Developer role in London, where I can work in a innovative team of problem solvers with whom I can both contribute and learn.
-
 Passionated about the relationship between the arts and technology, I decided to attend the [Maker's Academy](http://employers.makersacademy.com/) course after graduating from a visual art degree. Now stepping into the development world, I enjoy the mix of analysis and creativity associated with it. I would value the opportunity to work and learn with people that have an interest in creative tech.
 
 ## Projects
