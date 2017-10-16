@@ -63,12 +63,6 @@ Baccalauréat Scientifique  (High School diploma, scientific option, equivalent 
 
 ## Experience
 
-#### Independent curator
-
-* Co-curated exhibition: [Use, User, Used](https://www.zabludowiczcollection.com/exhibitions/view/use-user-used)
-
-* Co-organiser of [The Ideal Press](http://idealpress.org)
-
 #### [Zabdulowicz Collection](https://www.zabludowiczcollection.com/)
 
 * Gallery Manager assistant
