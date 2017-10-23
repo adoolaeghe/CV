@@ -64,6 +64,11 @@ I have worked in a variety of contexts sharpening my interpersonal skills. I am 
 Baccalauréat Scientifique  (High School diploma, scientific option, equivalent to A Levels), with honours. 
 
 ## Experience
+#### Independent curator
+ 
+ * Co-curated exhibition: [Use, User, Used](https://www.zabludowiczcollection.com/exhibitions/view/use-user-used)
+ 
+ * Co-organiser of [The Ideal Press](http://idealpress.org)
 
 #### [Zabdulowicz Collection](https://www.zabludowiczcollection.com/)
 
