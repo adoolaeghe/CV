@@ -5,7 +5,7 @@
 Passionated about the relationship between the arts and technology, I decided to attend the [Maker's Academy](http://employers.makersacademy.com/) course after graduating from a visual art degree. Now stepping into the development world, I enjoy the mix of analysis and creativity associated with it. I would value the opportunity to work and learn with people that have an interest in innovative problem-solving.
 
 ## Projects
-For a complete list, see my GitHub.
+For a complete list, see my [Github](https://github.com/adoolaeghe).
 
 | Project | Summary | links | Technology | Testing |
 | --- | --- | --- | --- | --- |
