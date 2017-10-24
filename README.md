@@ -13,7 +13,7 @@ For a complete list, see my GitHub.
 | 2. Pinboard Tech Test  | Validating my NodeJs skills with an application that stores bookmarks. | <p align="center"><a href="https://github.com/adoolaeghe/Pinboard_tech_test"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="50"> </p>  |Javascript, NodeJs, Express, Handlebars, MongoDB | Mocha, Chai |
 | 3. Music Safari  | An app that allows you to pin a song at your current location| <p align="center"><a href="https://github.com/adoolaeghe/music-safari"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="50"></p> | Javascript, Express, Firebase, GoogleMap Api, Spotify Api | Mocha, Jasmine |
 | 4. Front-end Twitter clone  | The goal of this exercise was to test my front-end skills in the first week at Makers Academy. The page is non-interative produces only with HTML, CSS and JS files. | <p align="center"><a href="https://github.com/adoolaeghe/frontman-challenge"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="50"></p> | Javascript, Express, Firebase, GoogleMap Api, Spotify Api | HTML, SASS |
-| 5. Echomancy  | Gamified song discovery (work in progress) | <p align="center"><a href="https://github.com/adoolaeghe/Echomancy"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="50"></p> | ReactJS, Node, Express, WebAudio  | Mocha, Chai |
+| 5. Echomancy  | Gamified song discovery <b>(work in progress)</b> | <p align="center"><a href="https://github.com/adoolaeghe/Echomancy"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="50"></p> | ReactJS, Node, Express, WebAudio  | Mocha, Chai |
 
 
 ## Skills
