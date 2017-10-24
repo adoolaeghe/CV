@@ -9,10 +9,10 @@ For a complete list, see my GitHub.
 
 | Project | Summary | links | Technology | Testing |
 | --- | --- | --- | --- | --- |
-| 1. LoveBlock  | Ethereum blockchain smart contract for creating marriages on blockchain. | <p align="center"><a href="https://github.com/adoolaeghe/Love-Block"><img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png"></p> | Solidity, truffle, web3.js, Node.js  | Mocha, Jasmine |
-| 2. Echomancy  | Gamified song discovery | <p align="center"><a href="https://github.com/adoolaeghe/Echomancy"><img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png"></p> | ReactJS, Node, Express, WebAudio  | Mocha, Chai |
-| 3. Pinboard Tech Test  | Confirming my NodeJs skills with a bookmarklet application built on Express | <p align="center"><a href="https://github.com/adoolaeghe/Pinboard_tech_test"><img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png" width="48px" height="48px"> </p>  |Javascript, NodeJs, Express, Handlebars, MongoDB | Mocha, Zombie |
-| 4. Music Safari  | An app that allows you to pin a song at your current location| <p align="center"><a href="https://github.com/adoolaeghe/music-safari"><img src="https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png"></p> | Javascript, Express, Firebase, GoogleMap Api, Spotify Api | Mocha, Jasmine |
+| 1. LoveBlock  | Ethereum blockchain smart contract for creating marriages on blockchain. | <p align="center"><a href="https://github.com/adoolaeghe/Love-Block"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="50"></p> | Solidity, truffle, web3.js, Node.js  | Mocha, Jasmine |
+| 2. Echomancy  | Gamified song discovery | <p align="center"><a href="https://github.com/adoolaeghe/Echomancy"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="50"></p> | ReactJS, Node, Express, WebAudio  | Mocha, Chai |
+| 3. Pinboard Tech Test  | Confirming my NodeJs skills with a bookmarklet application built on Express | <p align="center"><a href="https://github.com/adoolaeghe/Pinboard_tech_test"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="50"> </p>  |Javascript, NodeJs, Express, Handlebars, MongoDB | Mocha, Zombie |
+| 4. Music Safari  | An app that allows you to pin a song at your current location| <p align="center"><a href="https://github.com/adoolaeghe/music-safari"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="50"></p> | Javascript, Express, Firebase, GoogleMap Api, Spotify Api | Mocha, Jasmine |
 
 
 ## Skills
